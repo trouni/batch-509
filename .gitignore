@@ -1,0 +1,15 @@
+*.csv
+*.sqlite
+*.zip
+
+# Jupiter Notebook #
+.pytest_cache
+__pycache__
+*checkpoint.ipynb
+.ipynb_checkpoints
+
+# inteliJ #
+.idea
+*.vscode/
+.ipynb_checkpoints
+.dccache
